@@ -33,7 +33,7 @@ Hello, I’m Yuliya and I’m looking for a job as a frontend developer. I enjoy
 
 ```js
 function multiply(a, b) {
-  return a \* b
+	return a * b
 }
 ```
 
@@ -87,7 +87,3 @@ function multiply(a, b) {
 
 - English - B2
 - Russian - native
-
-```
-
-```
