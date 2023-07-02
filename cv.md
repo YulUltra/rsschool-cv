@@ -32,48 +32,46 @@ Hello, I’m Yuliya and I’m looking for a job as a frontend developer. I enjoy
 
 ## Experience
 
-- Novosoft (ERP NERPA Solution)
-  feb 2022 - apr 2022
+- Novosoft (ERP NERPA Solution) feb 2022 - apr 2022
 
-* Working with XML forms (creating new, editing, validating etc)
-* Implementing layouts of components
-  **Stack:** JavaScript, HTML, CSS, Vaadin framework
+  - Working with XML forms (creating new, editing, validating etc)
+  - Implementing layouts of components
+  - **Stack:** JavaScript, HTML, CSS, Vaadin framework
 
 - OWN PROJECTS:
 
   - To Do List using self-written component-based framework:
-    **Stack:** TypeScript, HTML, CSS, Webpack, Json-server, weather. API, Figma
-    \_\_[Link: https://github.com/YulUltra/QuantoriSchool/tree/main/h w5-10_to_do_list/vanilla_ts]
+
+    - **Stack:** TypeScript, HTML, CSS, Webpack, Json-server, weather. API, Figma
+    - **Link:** https://github.com/YulUltra/QuantoriSchool/tree/main/h w5-10_to_do_list/vanilla_ts
 
   - To Do List using React:
     **Stack:** ... + React, Redux, React Router
-    \_\_[Link: https://github.com/YulUltra/QuantoriSchool/tree/main/h w5-10_to_do_list/react_ts]
+    **Link:** https://github.com/YulUltra/QuantoriSchool/tree/main/h w5-10_to_do_list/react_ts
 
   - Multi-page website layout, including responsive:
     **Stack:** JS, HTML, SCSS, Gulp (+Slick, MixItUp, Fancybox)
-    \_\_[Link: https://github.com/YulUltra/desireStudio]
+    **Link:** https://github.com/YulUltra/desireStudio
 
   - A page with Parallax-effect:
     **Stack:** JavaScript, HTML, CSS (+GSAP library (ScrollSmoother, ScrollTrigger)), Photoshop
-    \_\_[Link: https://github.com/YulUltra/Parallax-page]
+    **Link:** https://github.com/YulUltra/Parallax-page
 
   - Landing page of the cryptocurrency website:
     **Stack:** JS, HTML, CSS
-    \_\_[Link: https://github.com/YulUltra/landingPage_crypto]
+    **Link:** https://github.com/YulUltra/landingPage_crypto
 
-  * OPENSOURCE:
+- OPENSOURCE:
 
   - The Piggy Bank (the web3 app for people looking to save
     money using crypto ) writing the layout of the app
     **Stack:** HTML, CSS
-    \_\_[Link: https://github.com/YulUltra/PiggyBank]
+    **Link:** https://github.com/YulUltra/PiggyBank
 
 ## Education
 
 - BACHELOR OF SCIENCE IN PHYSICS
-
-* Novosibirsk State University
-  2017 - 2021
+  - Novosibirsk State University (2017 - 2021)
 
 ## Languages
 
