@@ -5,10 +5,11 @@
 ## Contact info:
 
 - +374 554 295 63
-- eradiateYu@gmail.com
+- E-mail: eradiateYu@gmail.com
 - GitHub: https://github.com/YulUltra
 - Telegram: https://t.me/YuliyaZhukova_21
 - LinkedIn: https://www.linkedin.com/in/yulultra/
+- Discord: yuliyazhukova
 
 ## About Me
 
@@ -30,6 +31,12 @@ Hello, I’m Yuliya and I’m looking for a job as a frontend developer. I enjoy
 
 ## Code Examples
 
+```js
+function multiply(a, b) {
+  return a \* b
+}
+```
+
 ## Experience
 
 - Novosoft (ERP NERPA Solution) feb 2022 - apr 2022
@@ -46,27 +53,30 @@ Hello, I’m Yuliya and I’m looking for a job as a frontend developer. I enjoy
     - **Link:** https://github.com/YulUltra/QuantoriSchool/tree/main/h w5-10_to_do_list/vanilla_ts
 
   - To Do List using React:
-    **Stack:** ... + React, Redux, React Router
-    **Link:** https://github.com/YulUltra/QuantoriSchool/tree/main/h w5-10_to_do_list/react_ts
+
+    - **Stack:** ... + React, Redux, React Router
+    - **Link:** https://github.com/YulUltra/QuantoriSchool/tree/main/h w5-10_to_do_list/react_ts
 
   - Multi-page website layout, including responsive:
-    **Stack:** JS, HTML, SCSS, Gulp (+Slick, MixItUp, Fancybox)
-    **Link:** https://github.com/YulUltra/desireStudio
+
+    - **Stack:** JS, HTML, SCSS, Gulp (+Slick, MixItUp, Fancybox)
+    - **Link:** https://github.com/YulUltra/desireStudio
 
   - A page with Parallax-effect:
-    **Stack:** JavaScript, HTML, CSS (+GSAP library (ScrollSmoother, ScrollTrigger)), Photoshop
-    **Link:** https://github.com/YulUltra/Parallax-page
+
+    - **Stack:** JavaScript, HTML, CSS (+GSAP library (ScrollSmoother, ScrollTrigger)), Photoshop
+    - **Link:** https://github.com/YulUltra/Parallax-page
 
   - Landing page of the cryptocurrency website:
-    **Stack:** JS, HTML, CSS
-    **Link:** https://github.com/YulUltra/landingPage_crypto
+    - **Stack:** JS, HTML, CSS
+    - **Link:** https://github.com/YulUltra/landingPage_crypto
 
 - OPENSOURCE:
 
   - The Piggy Bank (the web3 app for people looking to save
-    money using crypto ) writing the layout of the app
-    **Stack:** HTML, CSS
-    **Link:** https://github.com/YulUltra/PiggyBank
+    money using crypto )
+    - **Stack:** HTML, CSS
+    - **Link:** https://github.com/YulUltra/PiggyBank
 
 ## Education
 
@@ -77,3 +87,7 @@ Hello, I’m Yuliya and I’m looking for a job as a frontend developer. I enjoy
 
 - English - B2
 - Russian - native
+
+```
+
+```
